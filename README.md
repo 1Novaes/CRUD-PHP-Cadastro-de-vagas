@@ -24,6 +24,8 @@ O projeto consiste em um CRUD, onde o usuário , pode cadastrar um vaga , sua de
 <div>
   <h3>Tela inicial inicial</h3>
   <img src ="img/home-page.png"></img>
+  <h3>Tela de Cadastro</h3>
+  <img src ="img/cadastro.png"></img>
   <h3>Tela de edição</h3>
   <img src ="img/edit.png"></img>
   <h3>Tela de exclusão</h3>
